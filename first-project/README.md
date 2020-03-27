@@ -1,4 +1,4 @@
-# Star Explorer
+# Balloon Tap
 
 This is an example game built with [Corona](http://www.coronalabs.com) to go along with the [Getting Started](https://docs.coronalabs.com/guide/programming/index.html) tutorial. The included source code goes along with the respective chapter.
 
